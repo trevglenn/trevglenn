@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on data science and machine learning projects.
 - 📫 How to reach me: email me at trevjglenn2@gmail.com
 
-I am a CFA Level One candidate currently looking for job opportunities in Data Analytics, Data Science, and Financial Analysis. 
+I am a CFA Level One candidate (Test date: November 2023) currently looking for job opportunities in Data Analytics, Data Science, and Financial Analysis. 
 
 Feel free to check out my projects!
 
