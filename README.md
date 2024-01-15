@@ -6,7 +6,7 @@
 
 I am a CFA Level One candidate (Test date: November 2023) currently looking for job opportunities in Data Analytics, Data Science, and Financial Analysis. 
 
-Feel free to check out my projects!
+Feel free to check out any of my projects and reach out!
 
 <!---
 trevglenn/trevglenn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
