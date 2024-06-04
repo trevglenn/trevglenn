@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @trevglenn
+- 🏫 I have a degree in Economics and a background in Sales, Data Entry/Management, and Financial Services.
 - 👀 I’m interested in financial analysis and data science.
 - 🌱 I’m currently learning how to forecast financial data using python.
 - 💞️ I’m looking to collaborate on data science and machine learning projects.
