@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trevglenn
 - 🏫 I have a degree in Economics and a background in Sales, Administration, Data Entry/Management, and Financial Services.
-- 👀 I’m interested in financial analysis and data science.
+- 👀 I’m interested in financial analysis, data science, and machine learning.
 - 🌱 I’m currently learning how to forecast financial data using python.
 - 💞️ I’m looking to collaborate on financial analysis and data science projects to continue my personal education as I work towards my goal of becoming a Chartered Financial Analyst.
 - 📫 How to reach me: email me at trevjglenn2@gmail.com or message me on linkedin https://www.linkedin.com/in/trevor-glenn-2190532b0/
